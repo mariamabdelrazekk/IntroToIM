@@ -16,7 +16,7 @@
 
 I used circles and rectangles to make the essential parts of the body. I really enjoyed playing around with colors. I think I got a better sense of how the coordinates of every shape work. 
 
-## *here is my code:*
+### *here is my code:*
 
 function setup() {
   createCanvas(400, 500);
