@@ -1,4 +1,4 @@
 # IntroToIM
 
-##**First Assignmen**
-* February 1st *
+##**First Assignment**
+ February 1st 
