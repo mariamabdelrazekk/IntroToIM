@@ -74,4 +74,4 @@ function setup() {
 }
 
 
-![my homework](selfportrait.png)
+![my homework](selfportrait.jpg)
