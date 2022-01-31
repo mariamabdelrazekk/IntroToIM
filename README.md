@@ -12,11 +12,11 @@
 
 #### 3. I tried to make a triangle, however, I couldn't position it in the area I wanted it to be in so, it looked extremely weird. Therefore, I went with rectangles for the body. It was hard for me to control the dimentions of the rectangle as it has six arguments. 
 
-### *more about my assignment*
+### *More about my assignment:*
 
 I used circles and rectangles to make the essential parts of the body. I really enjoyed playing around with colors. I think I got a better sense of how the coordinates of every shape work. 
 
-### *here is my code:*
+### *Here is my code:*
 
 function setup() {
   createCanvas(400, 500);
